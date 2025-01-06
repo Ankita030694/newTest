@@ -1,0 +1,21 @@
+.service__space {
+  padding-top: 80px;
+}
+.slider__space {
+  padding-bottom: 80px;
+}
+.banks-bg {
+  margin: 70px 0px;
+}
+.comingsoon-btn{
+  margin-left: 10px;
+  border: 1px solid white;
+  border-radius: 2px;
+}
+.comingsoon-btn img{
+  border-radius: 2px;
+}
+.comingsoon-btn:hover{
+  scale: 1.2;
+}
+ 
