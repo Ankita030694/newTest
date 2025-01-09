@@ -24,13 +24,10 @@ function Media() {
         >
           <img src={media3} alt="" />
         </a>
-        <a
-          href="https://www.thedailybeat.in/settle-loans-settle-life/ "
-          target="_blank"
-        >
-          <img src={media2} alt="" />
+        
+<a href="https://medium.com/@settleloans" target="_blank">
+          <img src={media6} alt="" />
         </a>
-
         {/* <img src={media3} alt="" /> */}
 
         <a href="https://yourstory.com/companies/settleloans" target="_blank">
@@ -40,9 +37,7 @@ function Media() {
         
         <img src={media1} alt="" />
         <img src={media5} alt="" />
-        <a href="https://medium.com/@settleloans" target="_blank">
-          <img src={media6} alt="" />
-        </a>
+        
       </div>
     </div>
   );
