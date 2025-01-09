@@ -288,11 +288,11 @@ function ServicesGraph() {
                 </Button>
               </Link>
               <Link
-                to="/enquire" // Define the route path
+                to="/contact" // Define the route path
                 className="w-full" // Full width for the link
               >
                 <Button
-                  ripple={false}
+                  ripple={false} 
                   fullWidth={true}
                   className="bg-blue-500 text-white shadow-none hover:scale-105 hover:shadow-none focus:scale-105 focus:shadow-none active:scale-100"
                 >
@@ -451,7 +451,7 @@ function ServicesGraph() {
                 </Button>
               </Link>
               <Link
-                to="/enquire" // Define the route path
+                to="/contact" // Define the route path
                 className="w-full" // Full width for the link
               >
                 <Button
@@ -614,7 +614,7 @@ function ServicesGraph() {
                 </Button>
               </Link>
               <Link
-                to="/enquire" // Define the route path
+                to="/contact" // Define the route path
                 className="w-full" // Full width for the link
               >
                 <Button
@@ -779,7 +779,7 @@ function ServicesGraph() {
                 </Button>
               </Link>
               <Link
-                to="/enquire" // Define the route path
+                to="/contact" // Define the route path
                 className="w-full" // Full width for the link
               >
                 <Button
@@ -942,7 +942,7 @@ function ServicesGraph() {
                 </Button>
               </Link>
               <Link
-                to="/enquire" // Define the route path
+                to="/contact" // Define the route path
                 className="w-full" // Full width for the link
               >
                 <Button
@@ -1105,7 +1105,7 @@ function ServicesGraph() {
                 </Button>
               </Link>
               <Link
-                to="/enquire" // Define the route path
+                to="/contact" // Define the route path
                 className="w-full" // Full width for the link
               >
                 <Button
